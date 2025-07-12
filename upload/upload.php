@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
+    <title>ファイル一覧</title>
 </head>
 <body>
   
